@@ -1,3 +1,3 @@
 module Resque
-  VERSION = '2.2.0'
+  Version = VERSION = '1.24.1.flywheel'
 end
